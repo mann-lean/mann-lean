@@ -26,7 +26,7 @@ I am an AI and Data Science graduate (B.Tech) focused on bridging the gap betwee
 *   **Stack:** Python, Pandas, Scikit-Learn, Numpy, Matplotlib/Seaborn/Streamlit, Power BI.
 *   **Highlights:** Translated raw demographic and transactional data into actionable business insights using unsupervised machine learning algorithms.
 
-**[📄 TalentFit Shortlister](link-to-repo)**
+**[📄 TalentFit Shortlister]([link-to-repo](https://github.com/mann-lean/TalentFit-Shorlister))**
 *Applied NLP Recruitment Tool*
 *   **Architecture:** Developed an intelligent profile-matching web application to automate candidate screening.
 *   **Stack:** Python, BERT, NLP libraries, Full-Stack integration.
@@ -40,5 +40,5 @@ I am an AI and Data Science graduate (B.Tech) focused on bridging the gap betwee
 *   *Note: My core expertise in MLOps and full-stack integration was self-taught through dedicated project-based learning.*
 
 ### 📫 Let's Connect
-*   **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/mann-32718a1b9)]
-*   **Email:** [[Your Email] (mannk7062@gmail.com)
+*   **LinkedIn:** [[Mann .](https://www.linkedin.com/in/mann-32718a1b9)]
+*   **Email:** [[mannk7062@gmail.com] (mannk7062@gmail.com)
