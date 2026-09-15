@@ -41,4 +41,4 @@ I am an AI and Data Science graduate (B.Tech) focused on bridging the gap betwee
 
 ### 📫 Let's Connect
 *   **LinkedIn:** [[Mann .](https://www.linkedin.com/in/mann-32718a1b9)]
-*   **Email:** [[mannk7062@gmail.com] (mannk7062@gmail.com)
+*   **Email:** [[mannk7062@gmail.com](mannk7062@gmail.com)]
